@@ -21,6 +21,13 @@ module.exports = {
         "rose-800": "hsl(332, 51%, 32%)",
         "rose-50": "hsl(330, 100%, 98%)",
       },
+      listStyleType: {
+        none: "none",
+        disc: "disc",
+        decimal: "decimal",
+        square: "square",
+        roman: "upper-roman",
+      },
     },
   },
   plugins: [],
