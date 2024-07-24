@@ -12,8 +12,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -22,8 +20,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-using-tailwind-css-7PkCbTPHTu](https://www.frontendmentor.io/solutions/recipe-page-using-tailwind-css-7PkCbTPHTu)
+- Live Site URL: [https://javiit10.github.io/recipe-page/](https://javiit10.github.io/recipe-page/)
 
 ## My process
 
